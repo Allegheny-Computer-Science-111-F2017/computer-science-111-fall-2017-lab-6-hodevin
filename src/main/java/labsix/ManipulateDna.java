@@ -19,7 +19,7 @@ public class ManipulateDna {
  
   public static void main(String[] args) {
     // display the name of the programmer and the date
-    System.out.println("Gregory M. Kapfhammer " + new Date());
+    System.out.println("Devin Ho " + new Date());
     // declare the starting file and scanner
     File dnaInputsFile = null;
     Scanner scanner = null;
